@@ -26,5 +26,5 @@ Login Admin: `admin@gmail.com` - `rasmuslerdorf`
 3. Lihat Status Pendaftaran
 
 
-## Certified
-![certified](certified.jpg)
+## Sertifikat
+![sertifikat](certified.jpg)
