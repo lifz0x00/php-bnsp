@@ -3,6 +3,9 @@ Aplikasi tersebut dibuat sebagai salah satu syarat kelulusan pelatihan BNSP tahu
 
 Aplikasi dibuat menggunakan `PHP Native` pada sisi server dan sisi client untuk mempercantik tampilan didukung oleh `Bootstrap 5` sebagai template serta sedikit tambahan JavaScript untuk melakukan validasi form inputan. Library PHP `MPdf` yang memungkinkan admin/user melakukan export file dengan format PDF. Serta untuk proses upload file, script dibuat dengan `PHP Native` tanpa menggunakan library pihak ketiga. Aplikasi didukung layanan `Live Chat` menggunakan API dari `tawk.to` yang dikhususkan bagi pendaftar atau siswa baru berinteraksi dengan admin untuk aktivasi akun.
 
+## Diagram
+![usecase](docs/usecase-diagram.png)
+
 ## Instalasi
 ```zsh
 cd app/
